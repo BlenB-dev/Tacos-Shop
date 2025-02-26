@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+}
+a:hover {
+  font-size: large;
+}
+li a {
+  text-decoration: none;
+}
